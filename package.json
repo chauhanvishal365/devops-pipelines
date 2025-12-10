@@ -1,0 +1,22 @@
+{
+  "name": "devops-pipleine",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "run": "node index.js",
+    "test": "run test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chauhanvishal365/devops-pipelines.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/chauhanvishal365/devops-pipelines/issues"
+  },
+  "homepage": "https://github.com/chauhanvishal365/devops-pipelines#readme"
+}
